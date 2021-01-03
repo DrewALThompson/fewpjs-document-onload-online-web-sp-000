@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", textAlt())
+document.addEventListener("DOMContentLoaded", function(){
+  document.
+});
 
-function textAlt(){
-  document.getElementById('text').innerHTML = 'JavaScript is so cool. It lets me add text to my page programmatically.'
-}
