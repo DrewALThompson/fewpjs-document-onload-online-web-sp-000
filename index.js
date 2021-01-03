@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", textAlt){
+document.addEventListener("DOMContentLoaded", textAlt) {
   textAlt();
 }
 
