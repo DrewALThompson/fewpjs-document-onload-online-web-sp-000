@@ -1,1 +1,7 @@
-// Your code goes here
+document.addEventListener("DOMContentLoaded", textAlt){
+  textAlt();
+}
+
+function textAlt(){
+  document.getElementBy
+}
